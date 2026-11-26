@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://pyscript.net">
+  <script type="module" src="https://pyscript.net"></script>
+</head>
+<body>
+  <script type="py">
+    from pyscript import display
+    display("Hello from Python!")
+  </script>
+</body>
+</html>
